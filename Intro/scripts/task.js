@@ -7,5 +7,7 @@ class Task{
         this.participants=participants;
         this.color=color;
         this.dueDate=dueDate;
+
+        this.Name="Leo"
     }
 }
